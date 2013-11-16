@@ -1,13 +1,13 @@
 {
-  "name": "ScriptName",
+  "name": "JSNES for Google Glass",
   "authors": [
     {
-      "email": "you@example.com",
-      "url": "http://example.com"
+      "email": "jujowned@gmail.com",
+      "url": "http://jujuman.org"
     }
   ],
 
-  "description": "Does something awesome",
+  "description": "Javascript NES emulator created off of JSNES formatted for Google Glass",
   "screenshots": [
   ],
 
@@ -18,7 +18,7 @@
   ],
 
   "tags": [
-    "hello-world"
+    "mario","NES","JSNES","juju","emu","emulator"
   ],
 
   "video": "",
